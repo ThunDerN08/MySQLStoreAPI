@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "6j7+Aa9UHVAkCN28wALi0BL9ncnG8FzXddp0TETNSzc=",
+  "Source": "MySQLStoreAPI",
+  "BasePath": "_content/MySQLStoreAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MySQLStoreAPI\\wwwroot",
+      "Source": "MySQLStoreAPI",
+      "ContentRoot": "C:\\Users\\nitiwat.ch\\Desktop\\Dotnet5Angular12\\MySQLStoreAPI\\wwwroot\\",
+      "BasePath": "_content/MySQLStoreAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\nitiwat.ch\\Desktop\\Dotnet5Angular12\\MySQLStoreAPI\\wwwroot\\docs-ui\\custom.css",
+      "SourceId": "MySQLStoreAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nitiwat.ch\\Desktop\\Dotnet5Angular12\\MySQLStoreAPI\\wwwroot\\",
+      "BasePath": "_content/MySQLStoreAPI",
+      "RelativePath": "docs-ui/custom.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\docs-ui\\custom.css"
+    },
+    {
+      "Identity": "C:\\Users\\nitiwat.ch\\Desktop\\Dotnet5Angular12\\MySQLStoreAPI\\wwwroot\\docs-ui\\custom.js",
+      "SourceId": "MySQLStoreAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nitiwat.ch\\Desktop\\Dotnet5Angular12\\MySQLStoreAPI\\wwwroot\\",
+      "BasePath": "_content/MySQLStoreAPI",
+      "RelativePath": "docs-ui/custom.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\docs-ui\\custom.js"
+    },
+    {
+      "Identity": "C:\\Users\\nitiwat.ch\\Desktop\\Dotnet5Angular12\\MySQLStoreAPI\\wwwroot\\docs-ui\\logo.png",
+      "SourceId": "MySQLStoreAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nitiwat.ch\\Desktop\\Dotnet5Angular12\\MySQLStoreAPI\\wwwroot\\",
+      "BasePath": "_content/MySQLStoreAPI",
+      "RelativePath": "docs-ui/logo.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\docs-ui\\logo.png"
+    }
+  ]
+}

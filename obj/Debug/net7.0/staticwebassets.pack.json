@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\nitiwat.ch\\Desktop\\Dotnet5Angular12\\MySQLStoreAPI\\wwwroot\\docs-ui\\custom.css",
+      "PackagePath": "staticwebassets\\docs-ui\\custom.css"
+    },
+    {
+      "Id": "C:\\Users\\nitiwat.ch\\Desktop\\Dotnet5Angular12\\MySQLStoreAPI\\wwwroot\\docs-ui\\custom.js",
+      "PackagePath": "staticwebassets\\docs-ui\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\nitiwat.ch\\Desktop\\Dotnet5Angular12\\MySQLStoreAPI\\wwwroot\\docs-ui\\logo.png",
+      "PackagePath": "staticwebassets\\docs-ui\\logo.png"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.MySQLStoreAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.MySQLStoreAPI.props",
+      "PackagePath": "build\\MySQLStoreAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.MySQLStoreAPI.props",
+      "PackagePath": "buildMultiTargeting\\MySQLStoreAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.MySQLStoreAPI.props",
+      "PackagePath": "buildTransitive\\MySQLStoreAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
